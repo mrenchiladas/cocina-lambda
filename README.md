@@ -1,2 +1,3 @@
-# cocina-lambda
-Si buscas comida deliciosa, entonces estás en el lugar correcto
+# Cocina Lambda👨🏼‍🍳🤌🏻
+
+Encuentra las mejores recetas aquí, en cocina Lambda
