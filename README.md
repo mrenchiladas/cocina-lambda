@@ -25,9 +25,9 @@ $ touch <platillo_nombre>.md
 $ git add .
 $ git commit -m "Añadí/Edité el platillo ..."
 ```
-8. Es hora de hacer push
+8. Es hora de hacer push a la branch que creaste en el paso 2
 ```bash
-$ git push origin main
+$ git push origin new_branch
 ```
 9. En GitHub, dirígete a tu fork, presiona el botón ***Compare & Pull Request***.
 10. Configura el mensaje y la descripción del ***Pull Request***.
