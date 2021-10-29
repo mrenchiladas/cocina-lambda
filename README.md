@@ -18,7 +18,7 @@ $ git checkout -b new_branch
 5. Añadir un platillo
 ```bash
 $ cd menu/
-$ touch <platillo_nombre>.md
+$ touch <nombre_platillo>.md
 ```
 6. Puedes guiarte por medio del [template](./menu/template.md)
 7. Guarda los cambios y crea un commit
