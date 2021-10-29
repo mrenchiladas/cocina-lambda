@@ -17,6 +17,7 @@ $ git checkout -b new_branch
 4. Para editar debes dirigirte al archivo Markdown(md), editarlo y dirígete al paso 7
 5. Añadir un platillo
 ```bash
+$ cd menu/
 $ touch <platillo_nombre>.md
 ```
 6. Puedes guiarte por medio del [template](./menu/template.md)
