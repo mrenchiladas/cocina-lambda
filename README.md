@@ -3,6 +3,7 @@
 Encuentra las mejores recetas aquí, en cocina Lambda
 
 1. [Enchiladas Verdes](./menu/enchiladas.md)
+2. [Cemitas](./menu/cemitas.md)
 
 
 ## Contribuir
