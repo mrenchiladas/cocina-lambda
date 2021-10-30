@@ -1,7 +1,7 @@
-#Pastel Azteca
+# Pastel Azteca
 ![Pastel Azteca](https://cdn7.kiwilimon.com/recetaimagen/11315/10273.jpg)
 
-##Ingredientes:
+## Ingredientes:
 * 16 tortillas de maíz
 * 2 pechugas de pollo
 * 6 chiles poblanos
@@ -14,5 +14,5 @@
 * 1 cucharadita de sal, al gusto
 * 1 cucharadita de pimienta, al gusto
 
-##Descripción:
+## Descripción:
 Pastel Azteca Delicioso
