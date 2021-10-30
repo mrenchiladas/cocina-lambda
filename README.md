@@ -4,6 +4,7 @@ Encuentra las mejores recetas aquí, en cocina Lambda
 
 1. [Enchiladas Verdes](./menu/enchiladas.md)
 2. [Cemitas](./menu/cemitas.md)
+3. [Gelatina de Almendra](./menu/gelatina_almendra.md)
 
 
 ## Contribuir
