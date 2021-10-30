@@ -6,6 +6,7 @@ Encuentra las mejores recetas aquí, en cocina Lambda
 2. [Cemitas](./menu/cemitas.md)
 3. [Calaveritas](./menu/calaveritas.md)
 4. [Pastel Azteca](./menu/pastel_azteca.md)
+5. [Gelatina de Almendra](./menu/gelatina_almendra.md)
 
 
 ## Contribuir
