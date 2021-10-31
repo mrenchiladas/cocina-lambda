@@ -3,7 +3,9 @@
 ## Ingredientes:
 * Base de galletas y mantequilla
 * Mezcla de queso philadelphia y leche condensada
-* Jugo y ralladura de limón
+* Jugo de limón
+* Huevos
+* Ralladura de limón
 
 ## Descripción
 Delicioso postre con combinación exquisita de la cremocidad del queso y la acidez del limon sobre una base crujiente de galletas.
