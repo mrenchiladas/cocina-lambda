@@ -7,5 +7,3 @@
 
 ## Descripción
 Delicioso postre con combinación exquisita de la cremocidad del queso y la acidez del limón sobre una base crujiente de galletas.
-
-> Nota: Recuerda ir al README.md y agregar tu platillo
